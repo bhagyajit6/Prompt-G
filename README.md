@@ -9,3 +9,5 @@ text generation and enabling real time detection and filtering of malicious cont
 success rates.  
 
 Keywords: Large Language Models; Jailbreak attacks; Vector Databases; Embeddings  
+
+[To interact with the chat model-](Response_Generation.ipynb)
